@@ -1,4 +1,6 @@
-### Hi there 👋
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/118684310/224094786-77217924-15e7-4b69-a88e-2114cef37634.gif)
+
+### Welcome to my GitHub! I'm Mary 👋
 
 <!--
 **mjlueder/mjlueder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
