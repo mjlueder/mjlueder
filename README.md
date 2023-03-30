@@ -8,20 +8,20 @@ Full stack developer, more than a decade of experience working with endangered s
 - 💻 Software Engineering Immersive Certificate
 - 🎓 Bachelors in Environmental Studies
 - 🌍 Certificate in Sustainability & Behavior Change
-- ✨ Mental Health First Aid Certification
+- 🧠 Mental Health First Aid Certification
 
-### 🌙 Recent Projects
+### ✨ Recent Projects
 - 🐕 [Pup Trainer](https://pup-trainer.netlify.app/)
 - 🎬 [Rec Drop](https://rec-drop.netlify.app/)
 
 ### ⚡ Languages & tools 
 ![skills](https://skillicons.dev/icons?i=react,typescript,postgres,mongodb,nodejs,express,vite,html,css,js,git&theme=dark)
 
-### 📈 Stats
+<!-- ### 📈 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=mjlueder&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mjlueder&theme=dark&hide_border=true)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlueder&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br> -->
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlueder&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br> -->
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/118684310/224094786-77217924-15e7-4b69-a88e-2114cef37634.gif)
 
