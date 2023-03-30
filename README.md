@@ -17,7 +17,7 @@ Full stack developer, more than a decade of experience working with endangered s
 - 🎬 [Rec Drop](https://rec-drop.netlify.app/)
 
 ### ⚡ Languages & tools 
-![skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,sql,mongodb,vite,git&theme=dark)
+![skills](https://skillicons.dev/icons?i=react,typescript,postgres,mongodb,nodejs,express,vite,html,css,js,git&theme=dark)
 
 ### 📈 Stats
 
