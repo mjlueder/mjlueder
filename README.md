@@ -11,11 +11,11 @@ Full stack developer, more than a decade of experience working with endangered s
 - 🧠 Mental Health First Aid Certification
 
 ### ✨ Recent Projects
-- 🐕 [Pup Trainer](https://pup-trainer.netlify.app/)
+- 🦠 [Covid Test Reporting](https://top-project.vercel.app/) - The Opportunity Project 2023
 - 🎬 [Rec Drop](https://rec-drop.netlify.app/)
 
 ### ⚡ Languages & tools 
-![skills](https://skillicons.dev/icons?i=react,typescript,postgres,mongodb,nodejs,express,vite,html,css,js,git&theme=dark)
+![skills](https://skillicons.dev/icons?i=react,typescript,postgres,mongodb,nodejs,express,vite,tailwind,nextjs,html,css,js,git&theme=dark)
 
 <!-- ### 📈 Stats
 
